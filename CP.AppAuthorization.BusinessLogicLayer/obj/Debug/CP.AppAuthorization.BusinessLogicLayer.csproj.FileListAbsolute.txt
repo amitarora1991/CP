@@ -1,0 +1,6 @@
+B:\Self\CustomerPortal\CP.AppAuthorization.BusinessLogicLayer\bin\Debug\CP.AppAuthorization.BusinessLogicLayer.dll
+B:\Self\CustomerPortal\CP.AppAuthorization.BusinessLogicLayer\bin\Debug\CP.AppAuthorization.BusinessLogicLayer.pdb
+B:\Self\CustomerPortal\CP.AppAuthorization.BusinessLogicLayer\obj\Debug\CP.AppAuthorization.BusinessLogicLayer.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.AppAuthorization.BusinessLogicLayer\obj\Debug\CP.AppAuthorization.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.AppAuthorization.BusinessLogicLayer\obj\Debug\CP.AppAuthorization.BusinessLogicLayer.dll
+B:\Self\CustomerPortal\CP.AppAuthorization.BusinessLogicLayer\obj\Debug\CP.AppAuthorization.BusinessLogicLayer.pdb
