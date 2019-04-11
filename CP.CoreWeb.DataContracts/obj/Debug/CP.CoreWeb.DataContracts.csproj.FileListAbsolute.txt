@@ -1,0 +1,6 @@
+B:\Self\CustomerPortal\CP.CoreWeb.DataContracts\bin\Debug\CP.CoreWeb.DataContracts.dll
+B:\Self\CustomerPortal\CP.CoreWeb.DataContracts\bin\Debug\CP.CoreWeb.DataContracts.pdb
+B:\Self\CustomerPortal\CP.CoreWeb.DataContracts\obj\Debug\CP.CoreWeb.DataContracts.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.CoreWeb.DataContracts\obj\Debug\CP.CoreWeb.DataContracts.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CoreWeb.DataContracts\obj\Debug\CP.CoreWeb.DataContracts.dll
+B:\Self\CustomerPortal\CP.CoreWeb.DataContracts\obj\Debug\CP.CoreWeb.DataContracts.pdb
