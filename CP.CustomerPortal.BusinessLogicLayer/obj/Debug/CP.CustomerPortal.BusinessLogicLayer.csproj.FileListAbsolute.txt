@@ -1,0 +1,6 @@
+B:\Self\CustomerPortal\CP.CustomerPortal.BusinessLogicLayer\bin\Debug\CP.CustomerPortal.BusinessLogicLayer.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.BusinessLogicLayer\bin\Debug\CP.CustomerPortal.BusinessLogicLayer.pdb
+B:\Self\CustomerPortal\CP.CustomerPortal.BusinessLogicLayer\obj\Debug\CP.CustomerPortal.BusinessLogicLayer.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.BusinessLogicLayer\obj\Debug\CP.CustomerPortal.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.BusinessLogicLayer\obj\Debug\CP.CustomerPortal.BusinessLogicLayer.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.BusinessLogicLayer\obj\Debug\CP.CustomerPortal.BusinessLogicLayer.pdb
