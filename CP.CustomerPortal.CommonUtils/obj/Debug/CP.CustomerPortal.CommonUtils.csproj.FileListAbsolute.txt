@@ -1,0 +1,6 @@
+B:\Self\CustomerPortal\CP.CustomerPortal.CommonUtils\bin\Debug\CP.CustomerPortal.CommonUtils.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.CommonUtils\bin\Debug\CP.CustomerPortal.CommonUtils.pdb
+B:\Self\CustomerPortal\CP.CustomerPortal.CommonUtils\obj\Debug\CP.CustomerPortal.CommonUtils.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.CommonUtils\obj\Debug\CP.CustomerPortal.CommonUtils.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.CommonUtils\obj\Debug\CP.CustomerPortal.CommonUtils.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.CommonUtils\obj\Debug\CP.CustomerPortal.CommonUtils.pdb
