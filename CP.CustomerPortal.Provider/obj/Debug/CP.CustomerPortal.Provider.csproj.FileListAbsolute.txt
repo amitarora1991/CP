@@ -1,0 +1,5 @@
+B:\Self\CustomerPortal\CP.CustomerPortal.Provider\bin\Debug\CP.CustomerPortal.Provider.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.Provider\bin\Debug\CP.CustomerPortal.Provider.pdb
+B:\Self\CustomerPortal\CP.CustomerPortal.Provider\obj\Debug\CP.CustomerPortal.Provider.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.Provider\obj\Debug\CP.CustomerPortal.Provider.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.Provider\obj\Debug\CP.CustomerPortal.Provider.pdb
