@@ -1,0 +1,11 @@
+B:\Self\CustomerPortal\CP.WebModules\bin\Debug\CP.WebModules.dll
+B:\Self\CustomerPortal\CP.WebModules\bin\Debug\CP.WebModules.pdb
+B:\Self\CustomerPortal\CP.WebModules\bin\Debug\CP.CoreWeb.DataContracts.dll
+B:\Self\CustomerPortal\CP.WebModules\bin\Debug\CP.CustomerPortal.CommonUtils.dll
+B:\Self\CustomerPortal\CP.WebModules\bin\Debug\CP.CoreWeb.DataContracts.pdb
+B:\Self\CustomerPortal\CP.WebModules\bin\Debug\CP.CustomerPortal.CommonUtils.pdb
+B:\Self\CustomerPortal\CP.WebModules\obj\Debug\CP.WebModules.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.WebModules\obj\Debug\CP.WebModules.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.WebModules\obj\Debug\CP.WebModules.csproj.CopyComplete
+B:\Self\CustomerPortal\CP.WebModules\obj\Debug\CP.WebModules.dll
+B:\Self\CustomerPortal\CP.WebModules\obj\Debug\CP.WebModules.pdb
