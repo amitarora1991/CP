@@ -1,0 +1,10 @@
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\obj\Debug\CP.CutomerPortal.Service.Host.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\obj\Debug\CP.CutomerPortal.Service.Host.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\bin\CP.CutomerPortal.Service.Host.dll.config
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\bin\CP.CutomerPortal.Service.Host.dll
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\bin\CP.CutomerPortal.Service.Host.pdb
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\bin\CP.CustomerPortal.Service.Contract.dll
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\bin\CP.CustomerPortal.Service.Contract.pdb
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\obj\Debug\CP.CutomerPortal.Service.Host.csproj.CopyComplete
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\obj\Debug\CP.CutomerPortal.Service.Host.dll
+B:\Self\CustomerPortal\CP.CutomerPortal.Service.Host\obj\Debug\CP.CutomerPortal.Service.Host.pdb

@@ -1,0 +1,9 @@
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\obj\Debug\CP.CustomerPortal.Service.csprojAssemblyReference.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\obj\Debug\CP.CustomerPortal.Service.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\bin\Debug\CP.CustomerPortal.Service.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\bin\Debug\CP.CustomerPortal.Service.pdb
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\bin\Debug\CP.CustomerPortal.Service.Contract.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\bin\Debug\CP.CustomerPortal.Service.Contract.pdb
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\obj\Debug\CP.CustomerPortal.Service.csproj.CopyComplete
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\obj\Debug\CP.CustomerPortal.Service.dll
+B:\Self\CustomerPortal\CP.CustomerPortal.Service\obj\Debug\CP.CustomerPortal.Service.pdb
