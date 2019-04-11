@@ -1,0 +1,69 @@
+﻿
+@{
+    ViewBag.Title = "CustomForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="main" class="row" role="main">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="row">
+            <a style="float:right;" onclick="openNav()" href="javascript:void(0)"><i class="fa fa-plus-circle plus"></i></a>
+        </div>
+        <div id="mySidenav" class="sidenav">
+            <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+            <a href="#">About</a>
+            <a href="#">Services</a>
+            <a href="#">Clients</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+        @*<div class="col-md-6 col-sm-6 col-xs-6">
+            <h2>Simple Collapsible</h2>
+            <p>Click on the button to toggle between showing and hiding content.</p>
+            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Simple collapsible</button>
+            <a data-toggle="collapse" data-target="#demo"><i class="fa fa-plus-circle plus"></i></a>
+            <div id="demo" class="collapse">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            </div>
+        </div>*@
+        <div class="col-md-6 col-sm-6 col-xs-6">
+            <div id="demo2" class="collapse">
+                <div class="x_panel">
+                    <div class="x_title">
+                        <div class="page-title">
+                            <div class="title_left">
+                                <div class="col-md-10 col-sm-10 col-xs-10 form-group top_search">
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" placeholder="Search for...">
+                                        <span class="input-group-btn">
+                                            <button class="btn btn-default" type="button">Go!</button>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            @*<div class="title_right">
+                                    <div class="pull-right">
+                                        <button class="btn btn-primary" onclick="closeNav()" type="button">DONE</button>
+                                    </div>
+                                </div>*@
+                        </div>
+                    </div>
+                    <div class="x_content">
+                        <br />
+                        <div>
+                        </div>
+                        <div class="ln_solid"></div>
+
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="row">
+            </div>
+        </div>
+
+    </div>
