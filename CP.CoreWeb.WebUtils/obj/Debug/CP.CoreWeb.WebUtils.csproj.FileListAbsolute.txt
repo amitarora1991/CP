@@ -1,0 +1,5 @@
+B:\Self\CustomerPortal\CP.CoreWeb.WebUtils\bin\Debug\CP.CoreWeb.WebUtils.dll
+B:\Self\CustomerPortal\CP.CoreWeb.WebUtils\bin\Debug\CP.CoreWeb.WebUtils.pdb
+B:\Self\CustomerPortal\CP.CoreWeb.WebUtils\obj\Debug\CP.CoreWeb.WebUtils.csproj.CoreCompileInputs.cache
+B:\Self\CustomerPortal\CP.CoreWeb.WebUtils\obj\Debug\CP.CoreWeb.WebUtils.dll
+B:\Self\CustomerPortal\CP.CoreWeb.WebUtils\obj\Debug\CP.CoreWeb.WebUtils.pdb
